@@ -1,6 +1,10 @@
 html>
 <head>
+<<<<<<< HEAD
     <title>branche dev</title>
+=======
+    <title>bootstrap</title>
+>>>>>>> mobile
 	<meta charset="UTF-8">
 </head>
 	<body>
@@ -15,6 +19,7 @@ html>
 		    <input type="number" placeholder="Age" id="age" name="age" value="" />
 
 		    <input type="submit" value="Valider" name="bouton" />
+		    je modifi 
 		</form>
 	</body>
 </html>
