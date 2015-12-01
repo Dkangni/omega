@@ -15,6 +15,7 @@ html>
 		    <input type="number" placeholder="Age" id="age" name="age" value="" />
 
 		    <input type="submit" value="Valider" name="bouton" />
+		    je modifi 
 		</form>
 	</body>
 </html>
