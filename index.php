@@ -1,6 +1,6 @@
 html>
 <head>
-    <title>Exercice 2</title>
+    <title>bootstrap</title>
 	<meta charset="UTF-8">
 </head>
 	<body>
