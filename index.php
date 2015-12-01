@@ -1,6 +1,6 @@
 html>
 <head>
-    <title>Exercice 2</title>
+    <title>branche dev</title>
 	<meta charset="UTF-8">
 </head>
 	<body>
